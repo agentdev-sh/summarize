@@ -108,7 +108,7 @@ importers:
         version: 4.1.1
       markdown-it:
         specifier: ^15.0.1
-        version: 15.0.1
+        version: 15.0.2
       mediabunny:
         specifier: 1.55.7
         version: 1.55.7
@@ -2676,8 +2676,8 @@ packages:
     engines: {node: '>=22'}
     hasBin: true
 
-  markdown-it@15.0.1:
-    resolution: {integrity: sha512-9/7gE95FNPkfUWrjJIoHZza2iLmuJlPD0UNMxPi7bxUrbCR525YZY0r+zyfes0dZI5ZZ/uNIXUJca0pJvtw41g==}
+  markdown-it@15.0.2:
+    resolution: {integrity: sha512-q4IGxMv56jCqT4OCRCADBoDP3LO4MhmTXjFbphHPXs4g3j9Xg5RDnxqN8IF/3vIWEU+VCnUq+7JUg/cfy2E6Qw==}
     hasBin: true
 
   marked@18.0.11:
@@ -5828,7 +5828,7 @@ snapshots:
       strip-ansi: 7.2.0
       supports-hyperlinks: 4.5.0
 
-  markdown-it@15.0.1:
+  markdown-it@15.0.2:
     dependencies:
       argparse: 3.0.1
       entities: 8.0.0
